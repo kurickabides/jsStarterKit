@@ -1,2 +1,2 @@
-# jsStarterKit
-this is my JavaScript Starter Kit 
+# js-dev-env-demo
+Course demo
