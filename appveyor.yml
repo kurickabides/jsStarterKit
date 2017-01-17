@@ -10,9 +10,9 @@ install:
   - ps: Install-Product node $env:nodejs_version
   # install modules
   - npm install
-
+  - bower install
 # Post-install test scripts.
-bower install
+
 test_script:
   # Output useful info for debugging.
   - node --version
