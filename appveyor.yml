@@ -19,6 +19,7 @@ test_script:
   - node --version
   - npm --version
   - bower --version
+  - bower install
   # run tests
   - npm test
 
