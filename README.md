@@ -1,2 +1,2 @@
 # js-dev-env-demo
-Course demo
+This project is the api side of server
